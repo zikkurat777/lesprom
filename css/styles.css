@@ -1,0 +1,27 @@
+*,*:before,*:after{
+	box-sizing:border-box;
+}
+
+body{
+	margin:0;
+	padding: 0;
+	font-size:16px;
+	background-color:#ffffff;
+	-webkit-font-smoothing:antialiased;
+}
+
+/* Big tablets, fablets */
+@media screen and (max-width: 961px) {
+}
+
+@media screen and (max-width: 830px) {
+}
+
+
+/* Mid tablets, fablets */
+@media screen and (max-width: 767px) {
+}
+
+	/* Smartphones */
+@media screen and (max-width: 479px) {
+}

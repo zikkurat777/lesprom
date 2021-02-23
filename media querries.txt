@@ -1,0 +1,89 @@
+/* Big laptops and desktops */
+@media screen and (max-width: 1191px) {
+
+
+}
+
+
+/* Big tablets, fablets */
+@media screen and (max-width: 991px) {
+
+
+}
+
+/* Mid tablets, fablets */
+@media screen and (max-width: 767px) {
+
+
+}
+
+
+@media (max-width: 575px) { ... }
+
+
+
+
+/* Smartphones */
+@media screen and (max-width: 479px) {
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+For typical mobile devices
+
+    @media only screen and (min-width: 320px) and (max-width: 479px) {
+
+    //CSS Code
+
+    }
+
+For mobile (landscape)
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    //CSS Code
+
+    }
+
+For tablet
+
+    @media only screen and (min-width: 768px) and (max-width: 979px) {
+
+    //CSS Code
+
+    }
+
+For small desktop
+
+    @media only screen and (min-width: 980px) and (max-width: 1023px) {
+
+    //CSS Code
+
+    }
+
+For typical desktop
+
+    @media only screen and (min-width: 1024px) and (max-width: 1199px) {
+
+    //CSS Code
+
+    }
+
+For large desktop
+
+    @media only screen and (min-width: 1200px) {
+
+    //CSS Code
+
+    }
